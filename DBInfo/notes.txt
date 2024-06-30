@@ -1,0 +1,4 @@
+#Some Problems with OPENSSL
+
+cmd: (utilização de versão antiga)
+update-crypto-policies --set DEFAULT:SHA1 (Baseado em https://github.com/microsoft/msphpsql/issues/1453)
